@@ -4,19 +4,19 @@
 
 
 ### Задание 1
-1. [status](png/1.jpg)
+1. [elasticsearch](img/1.jpg)
 
 ---
 
 ### Задание 2
-1. [delete by ttl](png/2.jpg)
+1. [kibana](img/2.jpg)
 
 ---
 
 ### Задание 2
-1. [status](png/1.jpg)
+1. [logs](img/3.jpg)
 
 ---
 
 ### Задание 3
-1. [delete by ttl](png/2.jpg)
+1. [logs](img/4.jpg)
