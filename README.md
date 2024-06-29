@@ -4,7 +4,7 @@
 
 
 ### Задание 1
-1. [elasticsearch](img/1.jpg)
+1. [elasticsearch](img/4.jpg)
 
 ---
 
@@ -14,9 +14,9 @@
 ---
 
 ### Задание 2
-1. [logs](img/3.jpg)
+1. [logs](img/1.jpg)
 
 ---
 
 ### Задание 3
-1. [logs](img/4.jpg)
+1. [logs](img/3.jpg)
